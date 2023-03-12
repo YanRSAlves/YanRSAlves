@@ -1,8 +1,8 @@
 ## Eae tudo bem? 👋 me chamo Yan Rocha e sou mais um amante da Tecnologia!!!
 
-- 🌱 Atualmente estou estudando Linguagem C, PHP, Apache e MySQL.
+- 🌱 Atualmente estou estudando Banco de Dados, Estrutura de dados em C, Python.
 - ⚡ Curto jogos de estratégias e com criação de história.
-- 🏀 Meu esporte favorito é o basquete!
+- 🏀 Meu esporte favorito é o Basquete!
 ***
 
 
