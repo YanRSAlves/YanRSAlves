@@ -1,6 +1,6 @@
 ## Eae tudo bem? 👋 me chamo Yan Rocha e sou mais um amante da Tecnologia!!!
 
-- 🌱 Atualmente estou estudando Linguagem C para Práticas de Microcontroladores, Segurança da informação, Investimentos.
+- 🌱 Atualmente estou estudando Algoritmos e muito Cálculo!.
 - ⚡ Curto jogos de estratégias e com criação de história.
 - 🏀 Meu esporte favorito é o Basquete!
 ***
